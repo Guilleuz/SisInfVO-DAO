@@ -1,4 +1,4 @@
-CREATE DATABASE sisinf_grupo_x;
+CREATE DATABASE sisinf_grupo_V2B;
 CREATE SCHEMA SisInf;
 
 SET search_path TO SisInf;
