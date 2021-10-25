@@ -23,7 +23,6 @@ public class llegadaTranviaVO {
     }
 
     // Métodos set
-
     public void setPrimero(String primero) {
         this.primero = primero;
     }

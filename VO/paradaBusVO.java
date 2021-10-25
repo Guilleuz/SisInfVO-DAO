@@ -4,7 +4,6 @@ public class paradaBusVO extends estacion{
         super(id, direccion, lon, lat);
     }
     
-
     public int getNPoste() {
         return this.getID();
     }
